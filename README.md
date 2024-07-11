@@ -196,3 +196,7 @@ const {
 # License
 
 GNU General Public License v3.0 | Copyright © 2022-present Tusko Trush
+
+## Donate here
+
+https://send.monobank.ua/jar/ABrTtpcSbR
