@@ -7,7 +7,7 @@
     <h1 style="border: 0; font-size: 100px; line-height: 50px">+</h1>
   </td>
   <td style="border: 0; vertical-align: middle">
-    <img width="200px" src="https://www.keycloak.org/resources/images/keycloak_icon_512px.svg" />
+    <img width="200px" src="https://www.keycloak.org/resources/images/logo.svg" />
   </td>
 </tr>
 </table>
